@@ -5,7 +5,7 @@
 	"C_Cpp.workspaceParsingPriority": "highest",
 	"C_Cpp.enhancedColorization": "Disabled",
 	"debug.toolBarLocation": "docked",
-	"editor.tabSize": 4,
+	"editor.tabSize": 2,
 	"editor.insertSpaces": false,
 	"editor.formatOnSave": true,
 	"files.encoding": "utf8",
